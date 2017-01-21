@@ -6,3 +6,13 @@
     content: " za elementem";
     color: red;
 }
+#p3::first-letter {
+    color: deeppink;
+    text-transform: uppercase;
+}
+#p4::first-line {
+    background-color: yellow;
+}
+#p3::selection {
+    background-color:coral;
+}
