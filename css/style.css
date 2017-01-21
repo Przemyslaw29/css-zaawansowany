@@ -1,0 +1,8 @@
+#p1::before {
+    content: 'Przed elementem " ';
+    color: green;
+}
+#p2::after {
+    content: " za elementem";
+    color: red;
+}
